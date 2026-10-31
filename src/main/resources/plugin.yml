@@ -1,0 +1,7 @@
+name: LKasabaPAPI
+main: tr.lkasabapapi.LKasabaPapi
+version: '1.0'
+api-version: '26.2'
+description: lKasaba icin PlaceholderAPI destegi
+depend: [lKasaba, PlaceholderAPI]
+load: POSTWORLD
